@@ -2,3 +2,5 @@
 /.env
 #数据
 /datas
+#实验
+/excise_1.py
